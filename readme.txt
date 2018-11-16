@@ -1,1 +1,2 @@
-eccho hello-world
+echo hello-world
+corrected
